@@ -1,5 +1,8 @@
 ## Women Techmakers México
 
+¡Bienvenida Embajadora de Women TechMakers!
+
+Sabemos lo importante que es tener un espacio en el cuál puedas crear,colaborar y apoyar junto con otras embajadoras que están a lo largo y ancho de México.Recuerda que la organización es un espacio de respeto y apoyo mutuo en pro de nuetra misión dentro de WTM.
 <!--
 
 **Here are some ideas to get you started:**
